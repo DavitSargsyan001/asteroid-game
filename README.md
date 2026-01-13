@@ -17,5 +17,6 @@ Future plans:
 -Add a speed power-up
 -Add bombs that can be dropped
 -upload the game to web so it's playable on a web browser
+-research about pygame integration on the web
 
 Thanks
